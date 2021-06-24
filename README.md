@@ -1,1 +1,1 @@
-[![cover](./cover.jpg)
+[![cover](./cover.jpg)]

@@ -2,4 +2,5 @@
 
 ![](https://komarev.com/ghpvc/?username=NOBLES5E)
 
-Available for contracting, IT, software, and AI consultation. Contact: shawn@sola.sh
+> [!IMPORTANT]  
+> 💼 Available for contracting, IT, software, and AI consultation. Contact: shawn@sola.sh
